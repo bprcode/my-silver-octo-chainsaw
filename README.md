@@ -6,6 +6,7 @@ or, "A Tail of Two Birds"
 
 This is a simple readme file in a repository which is being used to practice pull requests.
 
+### Bird Notes
 Many remarkable feathered animals exist, but penguins are the coolest, and flamingos are a close second.
 
 The best things about penguins are:
@@ -15,7 +16,7 @@ The best things about penguins are:
 - [ ] Very dapper
 - [ ] Coat stays shiny at all times
 - [ ] Make neat noises from ice floes
-- [ ] Swims in punch bowl at parties
+- [ ] Swim in punch bowl at parties
 
 ### Sartorial Directions
 Penguins would look cool in little bowties and top-hats.
